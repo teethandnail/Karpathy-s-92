@@ -4,4 +4,6 @@
 
 我不仅整理了这些链接，还为每一个博客主补充了背景信息、核心创作方向以及必读理由，旨在帮助你在这 92 个高质量信号中，快速定位到你最感兴趣的“大脑燃料”。
 
+博客导航：https://teethandnail.github.io/Karpathy-s-92/
+
 博客列表来源：https://gist.github.com/emschwartz/e6d2bf860ccc367fe37ff953ba6de66b
