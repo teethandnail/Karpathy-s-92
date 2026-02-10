@@ -16,6 +16,6 @@ export default defineConfig({
     tailwindcss(),
   ],
   resolve: { alias: { "@": path.resolve(__dirname, "./src") } },
-  base: "./",
+  base: "/Karpathy-s-92/",
   build: { outDir: "dist", emptyOutDir: true },
 });
